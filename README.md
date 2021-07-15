@@ -1,9 +1,7 @@
-# pytorch-complete-guide
+# Mastering PyTorch
 
-Complete guide to study and start the Pytorch.
+Complete guide to study and start the Pytorch **Edited By Steve Ive.**
 
-**Edited By Steve Ive.** (Take a Moment Setion)
+Original Document and Tutorials from
 
-Original Script **WHAT IS TORCH.NN REALLY?**
-
-https://pytorch.org/tutorials/beginner/nn_tutorial.html
+https://pytorch.org/tutorials
