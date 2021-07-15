@@ -2,8 +2,7 @@
 
 Complete guide to study and start the Pytorch.
 
-Edited By Steve Ive.
-- Take a Moment Setion
+**Edited By Steve Ive.**(Take a Moment Setion)
 
 Original Script **WHAT IS TORCH.NN REALLY?**
 
